@@ -1,2 +1,2 @@
 # Deploy-
-Use flask library to deploy predictive model
+Use streamlit library to deploy predictive model
